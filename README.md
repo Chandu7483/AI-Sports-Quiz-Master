@@ -35,7 +35,7 @@ The application generates fresh, sport-specific quizzes with detailed explanatio
 
 - Python
 - Google Gemini API
-- Gradio
+- Stramlit
 - ChromaDB
 - Sentence Transformers
 - DuckDuckGo Search
