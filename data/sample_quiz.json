@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Which country won the 2023 ICC Cricket World Cup?",
+        "options": ["India", "Australia", "England", "New Zealand"],
+        "answer": "Australia",
+        "explanation": "Australia defeated India in the final.",
+        "interesting_fact": "Australia has won the Cricket World Cup more times than any other nation."
+    },
+    {
+        "question": "How many players are there in a football team on the field?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11",
+        "explanation": "Each football team has 11 players on the field.",
+        "interesting_fact": "The goalkeeper is the only player allowed to use hands inside the penalty area."
+    },
+    {
+        "question": "Which country hosted the 2022 FIFA World Cup?",
+        "options": ["Russia", "Brazil", "Qatar", "USA"],
+        "answer": "Qatar",
+        "explanation": "Qatar hosted the tournament in 2022.",
+        "interesting_fact": "It was the first FIFA World Cup held in the Middle East."
+    },
+    {
+        "question": "In tennis, what is the score called when both players have 40 points?",
+        "options": ["Advantage", "Deuce", "Love", "Tie"],
+        "answer": "Deuce",
+        "explanation": "When both players reach 40, it is called Deuce.",
+        "interesting_fact": "Players must win two consecutive points after deuce to win the game."
+    },
+    {
+        "question": "Which sport uses a shuttlecock?",
+        "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+        "answer": "Badminton",
+        "explanation": "Badminton is played using a shuttlecock.",
+        "interesting_fact": "A badminton shuttlecock can travel over 400 km/h during a smash."
+    }
+]

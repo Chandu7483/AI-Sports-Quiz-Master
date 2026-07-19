@@ -1,0 +1,125 @@
+Cricket: Cricket is played between two teams of eleven players.
+Cricket: An over consists of six legal deliveries.
+Cricket: The ICC governs international cricket.
+Cricket: The ICC Cricket World Cup is held every four years.
+Cricket: The T20 World Cup is played in the Twenty20 format.
+Cricket: The Indian Premier League (IPL) began in 2008.
+Cricket: A century means scoring 100 runs in one innings.
+Cricket: A half-century means scoring 50 runs.
+Cricket: A hat-trick is taking three wickets in three consecutive balls.
+Cricket: Virat Kohli is one of India's leading batsmen.
+Cricket: Sachin Tendulkar scored 100 international centuries.
+Cricket: MS Dhoni captained India to the 2011 World Cup victory.
+Cricket: Jasprit Bumrah is known for his yorkers.
+Cricket: A wicket can fall by being bowled, caught, LBW, run out, stumped or hit wicket.
+Cricket: Test cricket is played over five days.
+Cricket: ODI matches consist of 50 overs per side.
+Cricket: T20 matches consist of 20 overs per side.
+Cricket: Fielders try to stop runs and take catches.
+Cricket: Umpires make decisions during a match.
+Cricket: The Ashes is a famous Test series between England and Australia.
+
+Football: Football is governed internationally by FIFA.
+Football: Each football team has eleven players.
+Football: The FIFA World Cup is held every four years.
+Football: Lionel Messi won the FIFA World Cup in 2022 with Argentina.
+Football: Cristiano Ronaldo is one of the highest goal scorers in football.
+Football: A football match lasts 90 minutes plus added time.
+Football: A goal is scored when the ball completely crosses the goal line.
+Football: The goalkeeper is the only player allowed to use hands inside the penalty area.
+Football: The UEFA Champions League is Europe's top club competition.
+Football: The Premier League is England's top football league.
+Football: FC Barcelona is a famous Spanish football club.
+Football: Real Madrid has won multiple Champions League titles.
+Football: An offside offence can cancel a goal.
+Football: Yellow cards are warnings.
+Football: Red cards result in player dismissal.
+Football: A penalty kick is taken from the penalty spot.
+Football: A corner kick is awarded when the defending team last touches the ball before it crosses the goal line.
+Football: A free kick may be direct or indirect.
+Football: Neymar is a famous Brazilian footballer.
+Football: Kylian Mbappe is one of the fastest football players.
+
+Basketball: Basketball is played with five players on each team.
+Basketball: The NBA is the most popular professional basketball league.
+Basketball: A standard field goal is worth two points.
+Basketball: A shot beyond the three-point line is worth three points.
+Basketball: A free throw is worth one point.
+Basketball: Michael Jordan is considered one of the greatest players.
+Basketball: LeBron James is an NBA legend.
+Basketball: The game starts with a jump ball.
+Basketball: Dribbling is required while moving with the ball.
+Basketball: Traveling is a rule violation.
+Basketball: A slam dunk is a powerful scoring move.
+Basketball: The backboard supports the basket.
+Basketball: NBA games consist of four quarters.
+Basketball: A rebound is gained after a missed shot.
+Basketball: An assist is a pass leading directly to a basket.
+Basketball: A steal occurs when a defender gains possession.
+Basketball: A block prevents a shot from reaching the basket.
+Basketball: James Naismith invented basketball.
+Basketball: The hoop is 10 feet high.
+Basketball: The shot clock limits offensive possession time.
+
+Tennis: Tennis has four Grand Slam tournaments.
+Tennis: The Australian Open is played on hard courts.
+Tennis: The French Open is played on clay courts.
+Tennis: Wimbledon is played on grass courts.
+Tennis: The US Open is played on hard courts.
+Tennis: Roger Federer won 20 Grand Slam singles titles.
+Tennis: Rafael Nadal is known as the King of Clay.
+Tennis: Novak Djokovic has won multiple Grand Slam titles.
+Tennis: Serena Williams is one of the greatest female tennis players.
+Tennis: A match begins with a serve.
+Tennis: Love means zero points.
+Tennis: A game is won by scoring four points with a two-point lead.
+Tennis: Deuce occurs when both players reach 40-40.
+Tennis: An ace is a serve that cannot be returned.
+Tennis: A tiebreak is played in many sets at 6-6.
+Tennis: Singles has one player on each side.
+Tennis: Doubles has two players on each side.
+Tennis: The Davis Cup is a men's international team event.
+Tennis: The Billie Jean King Cup is a women's international team event.
+Tennis: Wimbledon is the oldest tennis tournament.
+
+Kabaddi: Kabaddi originated in India.
+Kabaddi: Each team has seven players on the court.
+Kabaddi: A raider must chant "Kabaddi" while raiding.
+Kabaddi: A successful raid earns points.
+Kabaddi: A Super Tackle awards two points.
+Kabaddi: A Do-or-Die raid occurs after two empty raids.
+Kabaddi: The Pro Kabaddi League started in 2014.
+Kabaddi: Pawan Sehrawat is a famous Kabaddi player.
+Kabaddi: An all-out gives the attacking team additional points.
+Kabaddi: Defenders try to stop the raider.
+Kabaddi: Bonus points can be earned under certain conditions.
+Kabaddi: India has won multiple Kabaddi World Cups.
+Kabaddi: The baulk line is an important marking.
+Kabaddi: The lobby becomes active after contact.
+Kabaddi: Kabaddi requires strength and agility.
+Kabaddi: The raid has a time limit.
+Kabaddi: Matches consist of two halves.
+Kabaddi: Teamwork is essential in Kabaddi.
+Kabaddi: The captain leads the team.
+Kabaddi: Kabaddi is popular across South Asia.
+
+Badminton: Badminton is governed by the Badminton World Federation (BWF).
+Badminton: A badminton match is played with a shuttlecock.
+Badminton: Singles has one player on each side.
+Badminton: Doubles has two players on each side.
+Badminton: A game is played to 21 points.
+Badminton: A player must win by two points.
+Badminton: PV Sindhu won an Olympic silver medal.
+Badminton: Saina Nehwal is a famous Indian badminton player.
+Badminton: Viktor Axelsen is a world champion.
+Badminton: Carolina Marin is a world champion.
+Badminton: The All England Open is a prestigious tournament.
+Badminton: The shuttlecock can travel over 300 km/h.
+Badminton: Smashes are among the fastest shots in sports.
+Badminton: The net divides the court equally.
+Badminton: Service alternates after points.
+Badminton: A rally begins with a serve.
+Badminton: The Thomas Cup is the men's team championship.
+Badminton: The Uber Cup is the women's team championship.
+Badminton: Mixed doubles consists of one male and one female player.
+Badminton: Badminton requires speed, reflexes and endurance.
