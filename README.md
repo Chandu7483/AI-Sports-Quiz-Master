@@ -1,34 +1,45 @@
+---
+title: AI Sports Quiz Master
+emoji: 🏆
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 5.38.2
+app_file: app.py
+pinned: false
+---
+
 # 🏆 AI Sports Quiz Master
 
-An AI-powered Sports Quiz application that generates dynamic quizzes using **Retrieval-Augmented Generation (RAG)**. The application combines a local knowledge base, vector search, live web search, and Google's Gemini AI to create interactive sports quizzes.
+An intelligent Sports Quiz Generation Agent built using **Google Gemini**, **RAG (Retrieval-Augmented Generation)**, **ChromaDB**, **Sentence Transformers**, and **Gradio**.
+
+The application generates fresh, sport-specific quizzes with detailed explanations by combining a local knowledge base and live web search.
 
 ---
 
 ## 🚀 Features
 
-- 🎯 Dynamic AI-generated sports quizzes
-- 🏏 Multiple sports support
-- 📊 Three difficulty levels (Easy, Medium, Hard)
-- 🔢 Multiple question count options
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔍 ChromaDB vector database for semantic search
-- 🌐 Live web search using DuckDuckGo
-- 🤖 Google Gemini for quiz generation
-- 💡 Explanations and interesting facts for every question
-- 🖥️ Interactive Gradio interface
+- 🏏 Supports multiple sports (Cricket, Football, Basketball, Tennis, Kabaddi, Badminton, etc.)
+- 🎯 Difficulty Levels (Easy, Medium, Hard)
+- 🤖 AI-generated questions using Google Gemini
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🗂️ ChromaDB Vector Database
+- 🌐 Live web search for recent sports information
+- 🧠 Semantic search using Sentence Transformers
+- 💡 Detailed explanations for every answer
+- 🎨 Interactive Gradio interface
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Python
-- Gradio
 - Google Gemini API
+- Gradio
 - ChromaDB
 - Sentence Transformers
 - DuckDuckGo Search
-- Transformers
-- Dotenv
+- RAG Architecture
 
 ---
 
@@ -44,19 +55,8 @@ AI-Sports-Quiz-Master/
 │
 ├── assets/
 ├── data/
-│   ├── sports_data.txt
-│   └── sample_quiz.json
-│
 ├── docs/
-│
 ├── src/
-│   ├── embeddings.py
-│   ├── prompt_template.py
-│   ├── quiz_generator.py
-│   ├── rag_pipeline.py
-│   ├── vector_store.py
-│   └── web_search.py
-│
 └── tests/
 ```
 
@@ -64,114 +64,61 @@ AI-Sports-Quiz-Master/
 
 ## ⚙️ Installation
 
-Clone the repository:
+### Clone Repository
 
 ```bash
 git clone https://github.com/Chandu7483/AI-Sports-Quiz-Master.git
-```
-
-Move into the project directory:
-
-```bash
 cd AI-Sports-Quiz-Master
 ```
 
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment:
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Linux / macOS
-
-```bash
-source venv/bin/activate
-```
-
-Install dependencies:
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
+### Create Environment File
 
-## 🔑 Configure API Key
-
-Create a `.env` file in the project root.
+Create a `.env` file:
 
 ```env
-GOOGLE_API_KEY=YOUR_API_KEY
+GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 ```
 
----
-
-## ▶️ Run the Application
+### Run the Application
 
 ```bash
 python app.py
 ```
 
-Open the Gradio URL displayed in the terminal.
+---
+
+## 📌 Supported Sports
+
+- Cricket
+- Football
+- Basketball
+- Tennis
+- Kabaddi
+- Badminton
+- General Sports
 
 ---
 
-## 🧠 How It Works
+## 📷 Demo
 
-```
-User
-   │
-   ▼
-Select Sport & Difficulty
-   │
-   ▼
-Retrieve Context
-   │
-   ├── ChromaDB
-   └── DuckDuckGo
-   │
-   ▼
-Gemini AI
-   │
-   ▼
-Generate Quiz (JSON)
-   │
-   ▼
-Interactive Gradio Quiz
-```
+Launch the Gradio application locally or via Hugging Face Spaces.
 
 ---
 
-## 🎮 Supported Sports
+## 🎯 Future Enhancements
 
-- 🏏 Cricket
-- ⚽ Football
-- 🏀 Basketball
-- 🎾 Tennis
-- 🏸 Badminton
-- 🤼 Kabaddi
-- 🏑 Hockey
-- 🏐 Volleyball
-
----
-
-## 📌 Future Enhancements
-
-- User authentication
-- Quiz history
+- More Sports Coverage
 - Leaderboard
-- Timer for each question
-- Voice-enabled quizzes
-- More sports
-- Database-backed score tracking
+- User Authentication
+- Timed Quiz Mode
+- Score Analytics
+- Sports APIs Integration
 
 ---
 
@@ -179,12 +126,10 @@ Interactive Gradio Quiz
 
 **Chandu M**
 
-Python Developer | AI Enthusiast | Data Science Graduate
-
-GitHub: https://github.com/Chandu7483
+- GitHub: https://github.com/Chandu7483
 
 ---
 
-## ⭐ Support
+## ⭐ If you like this project
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+Please consider giving it a ⭐ on GitHub.
